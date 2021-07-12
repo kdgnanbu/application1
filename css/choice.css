@@ -1,0 +1,72 @@
+@charset "UTF-8";
+body{
+    background-image: url(../img/backimag.jpg)
+}
+
+.title {
+    margin-top:5%;
+   text-align:center;
+    font-size:25px;
+}
+
+.container {
+    margin-top:13%;
+    display: flex;
+    text-align:center;
+}
+
+
+
+.input {
+    margin-left:20%
+}
+
+.output {
+   margin-left:20%;
+}
+.button {
+    text-align:center;
+    background:#a9aeee;
+    color:white;
+    height:100px;
+    width:8%;
+    border-radius: 5px;
+    padding:100px 70px;
+    text-decoration: none;
+}
+
+.button1 {
+    text-align:center;
+    background:#006fbe;
+    color:white;
+    height:100px;
+    width:8%;
+    border-radius: 5px;
+    padding:100px 70px;
+    text-decoration: none;
+}
+
+
+.menu {
+    margin-top:15%;
+}
+.buttonm {
+    background:#888;
+     color:white;
+    text-align:center;
+    width:8%;
+    border-radius: 5px;
+    padding:8px 32px;
+    margin-left:20%;
+    text-decoration: none;
+}
+
+.button:hover {
+    background: #929ae9;
+}
+.button1:hover {
+    background: #004170;
+}
+.buttonm:hover {
+    background: #606e79;
+}

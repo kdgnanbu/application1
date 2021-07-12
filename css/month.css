@@ -1,0 +1,68 @@
+@charset "UTF-8";
+body{
+    background-image: url(../img/backimag.jpg)
+}
+
+.box {
+    margin-top:10%;
+    margin-left:22%;
+    width:60%;
+    font-weight: hold;
+    border: solid 2px #000;
+    background-color:#dbedf0
+}
+
+.menu {
+    margin-top:4%;
+    margin-left:8%;
+}
+
+.button {
+    background:#888;
+    color:white;
+    padding:8px 32px;
+}
+
+.button:hover {
+    background: #606e79;
+}
+
+.positions {
+    margin-top:30px;
+    margin-left:45%;
+}
+
+.but {
+    background-color:white;
+      padding:8px 32px;
+}
+.but:hover {
+   background:#0099FF;
+}
+
+.title {
+    margin-top:5%;
+    text-align:center;
+    font-size:25px;
+}
+table {
+ font-size:20px;
+border:1px;
+
+}
+.month {
+    text-decoration: none;
+}
+table {
+    text-align:center;
+    margin-top:3%;
+    margin-left:10%;
+    height:160px;
+    width:80%;
+    background-color:white;
+}
+
+.text {
+    margin-left:10px;
+    font-size:20px;
+}

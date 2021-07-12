@@ -1,0 +1,83 @@
+@charset "UTF-8";
+body{
+    background-image: url(../img/backimag.jpg)
+}
+
+.title2 {
+    text-align:center;
+}
+.menu {
+    margin-top:4%;
+    width:200px;
+    margin-left:9%;
+}
+.button {
+    background:#888;
+    color:white;
+/*    text-align:center;*/
+/*    width:8%;*/
+/*    border-radius: 5px;*/
+    padding:8px 32px;
+/*    margin-left:4%;*/
+}
+
+.button:hover {
+    background: #606e79;
+}
+
+.title {
+    margin-top:5%;
+   text-align:center;
+    font-size:25px;
+    width:80%;
+    margin-left:10%;
+}
+
+table {
+    margin-top:8%;
+    margin-left:10%;
+    height:160px;
+    width:80%;
+    background-color:white;
+}
+
+.positions {
+    margin-top:30px;
+    margin-left:45%;
+}
+.but {
+    background-color:white;
+    padding:8px 32px;
+    text-decoration: none;
+/*
+    background-color:#00a0dc;
+    color:white;
+*/
+}
+.but:hover {
+    background:#0099FF;
+}
+
+/*
+.buttons {
+     background:#00a0dc;
+    color:white;
+    width:8%;
+    text-align:center;
+    border-radius: 5px;
+    padding:8px 32px;
+    margin-left:40%;
+    text-decoration: none;
+    position:absolute;top:450px;
+}
+*/
+
+/*
+.buttons:hover {
+    background: #0090aa;
+}
+*/
+
+.sample {
+    text-align:center;
+}

@@ -1,0 +1,57 @@
+@charset "UTF-8";
+body{
+    background-image: url(../img/backimag.jpg);
+}
+
+
+.menu {
+    margin-top:5%;
+}
+.button {
+    background:#888;
+    color:white;
+    width:8%;
+    border-radius: 5px;
+    padding:8px 32px;
+    margin-left:20%;
+    text-decoration: none;
+}
+
+.button:hover {
+    background: #606e79;
+}
+
+.title {
+    margin-top:5%;
+    text-align:center;
+    font-size:25px;
+}
+
+.box {
+    margin-top:4%;
+    margin-left:20%;
+    width:60%;
+    text-align:center;
+    font-weight: hold;
+    border: solid 2px #000;
+    background-color:white;
+    font-size:20px;
+}
+
+.box1 {
+    text-align:center;
+    height:100px;
+    margin-top:4%;
+    margin-left:20%;
+    width:60%;
+    text-align:center;
+    font-weight: hold;
+    border: solid 2px #000;
+    background-color:white;
+    font-size:20px;
+}
+
+.text {
+    text-align:center;
+    padding:30px;
+}
